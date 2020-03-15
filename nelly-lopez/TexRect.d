@@ -1,0 +1,1 @@
+TexRect.o: TexRect.cpp
