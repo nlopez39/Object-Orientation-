@@ -1,2 +1,2 @@
-# novelty
-Practice 
+Create an OpenGL application that has one shape of your choice (circle, triangle, square...) somewhere on the screen. Towards the bottom of your screen, there should two rectangles, that will serve as buttons. When the user clicks one of them, your shape should start animating by moving between the left and right edges of your app screen. Clicking the button again, should stop the animation. When the other button is clicked, the shape should animate by moving along a circular path around the center of the app screen. You may add other buttons to do other things if you wish, but you have to have at least the two described above.
+
